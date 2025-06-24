@@ -7,6 +7,6 @@ int main()
 	printf("hello.kccl\n");
 	printf("hello.world\n");
 	printf("hello.gcc\n");
-
+	printf("zz\n");
 	return 0;
 }
