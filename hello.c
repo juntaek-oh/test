@@ -8,10 +8,5 @@ int main()
 	printf("hello.world\n");
 	printf("hello.gcc\n");
 	printf("zz\n");
-<<<<<<< HEAD
-	printf("xx\n");
-	printf("cc\n");
-=======
->>>>>>> parent of 401481e (xx)
 	return 0;
 }
