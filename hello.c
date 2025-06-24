@@ -9,5 +9,6 @@ int main()
 	printf("hello.gcc\n");
 	printf("zz\n");
 	printf("xx\n");
+	printf("cc\n");
 	return 0;
 }
