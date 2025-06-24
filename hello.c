@@ -8,5 +8,6 @@ int main()
 	printf("hello.world\n");
 	printf("hello.gcc\n");
 	printf("zz\n");
+	printf("xx\n");
 	return 0;
 }
